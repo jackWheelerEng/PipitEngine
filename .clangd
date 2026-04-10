@@ -1,6 +1,6 @@
 CompileFlags:
   Add:
     - -std=c++17
-    - -Iinclude
+    - -IGLAD/include
     - -I/opt/homebrew/include
     - -I/usr/local/include
