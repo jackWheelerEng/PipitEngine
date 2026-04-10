@@ -5,7 +5,7 @@ Minimal GLFW + GLAD OpenGL starter.
 ## Build & run (macOS + Homebrew GLFW)
 
 ```bash
-cd Code/PipinEngine
+cd Code/PipitEngine
 
 mkdir -p build
 clang -O2 -Wall -Wextra -I GLAD/include -I /opt/homebrew/include -c src/glad.c -o build/glad.o
