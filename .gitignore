@@ -12,3 +12,6 @@ pipit-engine
 
 # IDE
 .vscode/ipch/
+
+# clangd / tooling
+.cache/

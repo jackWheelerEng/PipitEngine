@@ -1,0 +1,12 @@
+[
+  {
+    "directory": "/Users/jackwheeler/Code/PipinEngine",
+    "file": "/Users/jackwheeler/Code/PipinEngine/src/main.cpp",
+    "command": "clang++ -std=c++17 -I/Users/jackwheeler/Code/PipinEngine/GLAD/include -I/opt/homebrew/include -Wall -Wextra -c /Users/jackwheeler/Code/PipinEngine/src/main.cpp -o /Users/jackwheeler/Code/PipinEngine/build/main.o"
+  },
+  {
+    "directory": "/Users/jackwheeler/Code/PipinEngine",
+    "file": "/Users/jackwheeler/Code/PipinEngine/src/glad.c",
+    "command": "clang -I/Users/jackwheeler/Code/PipinEngine/GLAD/include -I/opt/homebrew/include -Wall -Wextra -c /Users/jackwheeler/Code/PipinEngine/src/glad.c -o /Users/jackwheeler/Code/PipinEngine/build/glad.o"
+  }
+]
